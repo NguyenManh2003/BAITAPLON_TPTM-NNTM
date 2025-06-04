@@ -28,7 +28,9 @@ Hệ thống cảnh báo ngập lụt đô thị ứng dụng công nghệ IoT g
 [ Nền tảng IoT/Webserver ]
        ↓
 [ Giao diện người dùng & cảnh báo ]
+
 💡 Chức năng chính
+
 Đo mực nước theo thời gian thực
 
 Thiết lập ngưỡng cảnh báo linh hoạt
@@ -40,14 +42,21 @@ Phát cảnh báo khi vượt ngưỡng
 Lưu trữ lịch sử mực nước để phân tích sau
 
 🧠 Công nghệ sử dụng
-Thành phần	Công nghệ
-Vi điều khiển	ESP32 WiFi
-Giao tiếp	WiFi MQTT / HTTP
-Hiển thị cục bộ	Màn hình OLED SH110x
-Giao diện trực tuyến	Web Dashboard (Node-RED, ThingsBoard, Blynk hoặc nền tảng tùy chọn)
-Lưu trữ dữ liệu	Cloud hoặc local server
+
+Thành phần: Công nghệ
+
+Vi điều khiển: ESP32 WiFi
+
+Giao tiếp: WiFi MQTT / HTTP
+
+Hiển thị cục bộ: Màn hình OLED SH110x
+
+Giao diện trực tuyến: Web Dashboard (Node-RED, ThingsBoard, Blynk hoặc nền tảng tùy chọn)
+
+Lưu trữ dữ liệu: Cloud hoặc local server
 
 🖥️ Giao diện hệ thống cảnh báo
+
 Cho phép bật/tắt hệ thống
 
 Cài đặt ngưỡng cảnh báo (VD: 300 cm)
