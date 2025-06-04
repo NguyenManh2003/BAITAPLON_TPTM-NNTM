@@ -67,6 +67,8 @@ Biểu đồ thời gian thực
 
 ![Phần cứng hệ thống](Hinh_Anh/anh-2.jpg)
 
+🖥️ Kết quả báo về Gmail
 
+![Phần cứng hệ thống](Hinh_Anh/anh-3.jpg)
 
 
