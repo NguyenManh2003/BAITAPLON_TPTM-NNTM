@@ -1,4 +1,4 @@
-# 🌧️ HỆ THỐNG CẢNH BÁO NGẬP LỤT ĐÔ THỊ DỰA TRÊN IoT
+# 🌧️ HỆ THỐNG CẢNH BÁO NGẬP LỤT ĐÔ THỊ
 
 ## 📌 Giới thiệu
 
