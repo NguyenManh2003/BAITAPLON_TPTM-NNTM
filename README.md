@@ -71,4 +71,4 @@ Biểu đồ thời gian thực
 
 ![Phần cứng hệ thống](Hinh_Anh/anh-3.jpg)
 
-
+👨‍💻 Tác giả Họ Và Tên: Nguyễn Văn Mạnh
